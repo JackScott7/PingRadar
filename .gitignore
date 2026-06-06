@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+publish/
+
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+TestResults/
+.vscode/
+*.log
