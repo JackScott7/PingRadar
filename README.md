@@ -15,16 +15,6 @@ It displays available relay/server regions, their current ping, and a simple con
 - Includes a manual refresh button
 - Clean dark UI designed for quick reading
 
-## Tech Stack
-
-- C#
-- WinForms
-- .NET
-
-## Purpose
-
-PingRadar is made for CS2 players who want a fast way to check latency to different Valve relay locations without opening the game or manually testing routes.
-
 ## Status
 
 Early version / work in progress.
