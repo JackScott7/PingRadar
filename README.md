@@ -4,7 +4,7 @@
 
 It displays available relay/server regions, their current ping, and a simple connection-quality label so you can quickly see which region gives the best route before playing.
 
-![PingRadar preview](assets/pingradar-preview.png)
+![PingRadar preview](Assets/pingradar-preview.png)
 
 ## Features
 
